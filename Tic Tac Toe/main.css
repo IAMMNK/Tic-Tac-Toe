@@ -1,0 +1,49 @@
+.one{
+    background-color: grey ;
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    display: flex;
+}
+.two{
+    background-color: wheat;
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    display: flex;
+}
+
+#merge
+{
+    display: flex;
+    margin-left: 450px;
+}
+#reset{
+    width: 371px;
+    height: 112px   ;
+    margin-top: 10px;
+    margin-left: 665px;
+    background-image: url(button.png);
+    background-size: cover;
+}
+body{
+    background-image: url(BYMNK.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    background-image: url(title.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 450px;
+    width: 580px;
+    height: 350px;
+}
+#result{
+    background-color: azure;
+    width: 446px;
+    height: 246px;
+    margin-top: 10px;
+    margin-left: 100px;
+    border: solid 2px black;
+}
